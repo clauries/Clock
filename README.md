@@ -3,7 +3,7 @@
 # Clock
 A Javascript powered clock face displaying the current time.
 
-<img src="./assets/clock-face"/>
+<img src="./assets/clock-face.png"/>
 
 #### [Deployed App](https://clauries.github.io/Clock/)
 
