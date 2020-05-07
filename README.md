@@ -3,9 +3,9 @@
 # Clock
 A Javascript powered clock face displaying the current time.
 
-<img src="*"/>
+<img src="./assets/clock-face"/>
 
-#### [Deployed App](*)
+#### [Deployed App](https://clauries.github.io/Clock/)
 
 
 ## Concept
